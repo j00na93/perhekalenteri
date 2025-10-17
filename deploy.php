@@ -22,7 +22,9 @@ set('writable_dirs', []);
 
 // Hosts
 
+// Hosts
 host('neutroni.hayo.fi')
+    ->user('p43849')
     ->set('deploy_path', '~/public_html/{{application}}');
     
 
