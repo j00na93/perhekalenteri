@@ -17,6 +17,9 @@
     "passionone" => array(
       "name" => "Passion One",
       "url"  => "https://fonts.googleapis.com/css2?family=Passion+One&display=swap"),
+    "sansita swashed" => array(
+       "name" => "Sansita Swashed",
+       "url"  => "https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap"), 
     "satisfy" => array(
       "name" => "Satisfy",
       "url"  => "https://fonts.googleapis.com/css2?family=Satisfy&display=swap"),
